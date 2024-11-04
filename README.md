@@ -28,3 +28,4 @@ Lightroom Photo Video Editor|Unlock premium|[</>](https://github.com/ReVanced/re
 Instagram|Hide timeline ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/instagram/patches)|[Download](https://github.com/arghya339/apk-me/releases?q=Instagram&expanded=true)
 Facebook Messenger|Hide inbox ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/messenger)|[Download](https://github.com/arghya339/apk-me/releases?q=Facebook-Messenger&expanded=true)
 Apktool Mobile|decompilation and compilation of Android installation packages|-|[Download](https://github.com/arghya339/apk-me/releases?q=Apktool&expanded=true)
+Tasker|Unlock trial|[</>](https://github.com/indrastorms/Dropped-Patches/)|[Download](https://github.com/arghya339/apk-me/releases?q=Tasker&expanded=true)

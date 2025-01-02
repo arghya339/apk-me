@@ -11,8 +11,6 @@ Pixelify Google Photos Android 5+|spoofing Pixel 5 (unlimited storage)|[</>](htt
 Duolingo|Disable Ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/duolingo)|[Download](https://github.com/arghya339/apk-me/releases?q=Duolingo&expanded=true)
 Zebpay Clone|DiffPackage|-|[Download](https://github.com/arghya339/apk-me/releases?q=Zebpay+DiffPackage&expanded=true)
 BHIM Stable|Stable versions|-|[Download](https://github.com/arghya339/apk-me/releases?q=BHIM+Stable&expanded=true)
-PNB ONE|Disabled Developer Option Detection|[</>](https://github.com/xfqwdsj/IAmNotADeveloper)|[Download](https://github.com/arghya339/apk-me/releases?q=PNB+ONE&expanded=true)
-GlassDown|downloading apk files from APKMirror|[</>](https://github.com/Sinneida/glassdown/)|[Download](https://github.com/arghya339/apk-me/releases?q=GlassDown&expanded=true)
 piko Twitter|Twitter client with many useful modifications|[</>](https://github.com/crimera/piko)|[Download](https://github.com/arghya339/apk-me/releases?q=piko-Twitter&expanded=true)
 X (previously Twitter)|Twitter client with many useful modifications|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/twitter)|[Download](https://github.com/arghya339/apk-me/releases?q=X-previously-Twitter&expanded=true)
 VSCO Photo Video Editor|Pro|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/vsco/misc/pro)|[Download](https://github.com/arghya339/apk-me/releases?q=VSCO-Photo-Video-Editor&expanded=true)

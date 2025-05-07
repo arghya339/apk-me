@@ -28,3 +28,4 @@ Apktool Mobile|decompilation and compilation of Android installation packages|-|
 Tasker|Unlock trial|[</>](https://github.com/indrastorms/Dropped-Patches/)|[Download](https://github.com/arghya339/apk-me/releases?q=Tasker&expanded=true)
 Nova Launcher|Unlock prime|[</>](https://github.com/indrastorms/Dropped-Patches/)|[Download](https://github.com/arghya339/apk-me/releases?q=Nova+Launcher&expanded=true)
 1.1.1.1 + WARP|-|-|[Download](https://github.com/arghya339/apk-me/releases?q=1.1.1.1&expanded=true)
+Prime Video|Skip ads|[</>](https://github.com/ReVanced/revanced-patches/tree/dev/patches/src/main/kotlin/app/revanced/patches/primevideo)|[Download](https://github.com/arghya339/apk-me/releases?q=Prime+Video&expanded=true)

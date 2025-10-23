@@ -22,7 +22,7 @@ Lightroom Photo Video Editor|Unlock premium|[</>](https://github.com/ReVanced/re
 Instagram|Hide timeline ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/instagram/patches)|[⤓](https://github.com/arghya339/apk-me/releases?q=Instagram&expanded=true)
 Facebook Messenger|Hide inbox ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/messenger)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk)
 Apktool Mobile|decompilation and compilation of Android installation packages|-|[⤓](https://github.com/arghya339/apk-me/releases?q=Apktool&expanded=true)
-Tasker|Unlock trial|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓](https://github.com/arghya339/apk-me/releases?q=Tasker&expanded=true)
+Tasker|Unlock trial|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tasker-indrastorms.apk)
 Nova Launcher|Unlock prime|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓](https://github.com/arghya339/apk-me/releases?q=Nova+Launcher&expanded=true)
 1.1.1.1 + WARP|-|-|[⤓](https://github.com/arghya339/apk-me/releases?q=1.1.1.1&expanded=true)
 Prime Video|Skip ads|[</>](https://github.com/ReVanced/revanced-patches/tree/dev/patches/src/main/kotlin/app/revanced/patches/primevideo)|[⤓](https://github.com/arghya339/apk-me/releases?q=Prime+Video&expanded=true)

@@ -3,7 +3,7 @@ Some Popular MOD Android.apk
 
 Android Apps|Features|Source Code|Download
 :----|:----|:----|:----
-Google Dialer|Disabled Call Recording Announcement|[</>](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/)|[⤓](https://github.com/arghya339/apk-me/releases?q=Phone+by+Google&expanded=true)
+Google Dialer|Disabled Call Recording Announcement|[</>](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/)|[⤓](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/releases)
 LineXtra|Remove Ads|[</>](https://github.com/yagiyuu/LineXtra/)|[⤓](https://github.com/arghya339/apk-me/releases?q=LineXtra&expanded=true)
 Nagram|third-party Telegram client with many useful modifications|[</>](https://github.com/NextAlone/Nagram/tree/main)|[⤓](https://github.com/NextAlone/Nagram/releases/latest)
 Pixelify Google Photos|spoofing Pixel 5 (unlimited storage)|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/googlephotos)|[⤓](https://github.com/arghya339/apk-me/releases?q=PixelifyUnGoogledPhotos&expanded=true)

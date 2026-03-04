@@ -1,0 +1,27 @@
+# apk-me
+Some Popular MOD Android.apk
+
+Android Apps|Features|Source Code|Download
+:----|:----|:----|:----
+Google Dialer|Disabled Call Recording Announcement|[</>](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/)|[⤓](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/releases)
+LineXtra|Remove Ads|[</>](https://github.com/yagiyuu/LineXtra/)|[⤓](https://github.com/arghya339/apk-me/releases?q=LineXtra&expanded=true)
+Nagram|third-party Telegram client with many useful modifications|[</>](https://github.com/NextAlone/Nagram/tree/main)|[⤓](https://github.com/NextAlone/Nagram/releases/latest)
+Pixelify Google Photos|spoofing Pixel 5 (unlimited storage)|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/googlephotos)|[⤓](https://github.com/arghya339/apk-me/releases?q=PixelifyUnGoogledPhotos&expanded=true)
+Pixelify Google Photos Android 5|spoofing Pixel 5 (unlimited storage)|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/googlephotos)|[⤓](https://github.com/arghya339/apk-me/releases?q=PixelifyUnGoogledPhotos+A5&expanded=true)
+Duolingo|Disable Ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/duolingo)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/duolingo-revanced.apk)
+piko Twitter|Twitter client with many useful modifications|[</>](https://github.com/crimera/piko)|[⤓](https://github.com/crimera/twitter-apk/releases)
+Twitch|Twitch client with many useful modifications|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/twitch)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/twitch-revanced.apk)
+Tumblr|Tumblr client with many useful modifications|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/tumblr)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tumblr-revanced.apk)
+TikTok|TikTok client with many useful modifications|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/tiktok)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tiktok-revanced.apk)
+SpotifyRVX|Premium Unlock|[</>](https://github.com/anddea/revanced-patches/tree/main/patches/src/main/kotlin/app/revanced/patches/spotify)|[⤓](https://github.com/arghya339/Simplify)
+Reddit|Reddit client with many useful modifications|[</>](https://github.com/inotia00/revanced-patches-arsclib/tree/arsclib-old/src/main/kotlin/app/revanced/patches/reddit)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/reddit-revanced-extended-arsclib.apk)
+RAR|Hide purchase reminder|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/rar/misc/annoyances/purchasereminder)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/rar-revanced.apk)
+Photomath|Unlock plus|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/photomath)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/photomath-revanced.apk)
+Lightroom|Unlock premium|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/lightroom/misc)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-revanced.apk)
+Instagram|Hide timeline ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/instagram/patches)|[⤓](https://github.com/arghya339/apk-me/releases?q=Instagram&expanded=true)
+Facebook Messenger|Hide inbox ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/messenger)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk)
+Apktool Mobile|decompilation and compilation of Android installation packages|-|[⤓](https://github.com/arghya339/apk-me/releases?q=Apktool&expanded=true)
+Tasker|Unlock trial|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/tasker-indrastorms.apk)
+Nova Launcher|Unlock prime|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/nova-launcher-indrastorms.apk)
+1.1.1.1 + WARP|-|-|[⤓](https://github.com/arghya339/apk-me/releases?q=WARP&expanded=true)
+Prime Video|Skip ads|[</>](https://github.com/ReVanced/revanced-patches/tree/dev/patches/src/main/kotlin/app/revanced/patches/primevideo)|[⤓](https://github.com/arghya339/apk-me/releases?q=Prime+Video&expanded=true)

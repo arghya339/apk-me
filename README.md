@@ -31,3 +31,4 @@ Tasker|Unlock trial|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓]
 Nova Launcher|Unlock prime|[</>](https://github.com/indrastorms/Dropped-Patches/)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/nova-launcher-indrastorms.apk)
 1.1.1.1 + WARP|-|-|[⤓](https://github.com/arghya339/apk-me/releases?q=WARP&expanded=true)
 Prime Video|Skip ads|[</>](https://github.com/ReVanced/revanced-patches/tree/dev/patches/src/main/kotlin/app/revanced/patches/primevideo)|[⤓](https://github.com/arghya339/apk-me/releases?q=Prime+Video&expanded=true)
+MyFitnessPal|Hide Ads|[</>](https://gitlab.com/ReVanced/revanced-patches/-/blob/main/patches/src/main/kotlin/app/revanced/patches/myfitnesspal/ads/HideAdsPatch.kt)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/MyFitnessPal-revanced.apk)

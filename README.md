@@ -3,6 +3,7 @@ Some Popular MOD Android.apk
 
 Android Apps|Features|Source Code|Download
 :----|:----|:----|:----
+AdGuard|Enable Premium|[</>](https://github.com/hoo-dles/morphe-patches/tree/main/patches%2Fsrc%2Fmain%2Fkotlin%2Fhoodles%2Fmorphe%2Fpatches%2Fadguard%2Fpremium)|[⤓](https://github.com/arghya339/apk-me/releases?q=AdGuard&expanded=true)
 Google Dialer|Disabled Call Recording Announcement|[</>](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/)|[⤓](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/releases)
 LineXtra|Remove Ads|[</>](https://github.com/yagiyuu/LineXtra/)|[⤓](https://github.com/arghya339/apk-me/releases?q=LineXtra&expanded=true)
 Nagram|third-party Telegram client with many useful modifications|[</>](https://github.com/NextAlone/Nagram/tree/main)|[⤓](https://github.com/NextAlone/Nagram/releases/latest)

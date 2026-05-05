@@ -36,3 +36,4 @@ MyFitnessPal|Hide Ads|[</>](https://gitlab.com/ReVanced/revanced-patches/-/blob/
 WPS Office|Enable Pro|[</>](https://github.com/hoo-dles/morphe-patches/blob/main/patches/src/main/kotlin/hoodles/morphe/patches/wpsoffice/pro/EnableProPatch.kt)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/wps-office-hoo-dles.apk)
 Solid Explorer|Enable Pro|[</>](https://github.com/hoo-dles/morphe-patches/blob/main/patches/src/main/kotlin/hoodles/morphe/patches/solidexplorer/pro/EnableProPatch.kt)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/solid-explorer-hoo-dles.apk)
 Discord|client mod|[</>](https://github.com/revenge-mod/revenge-xposed)|[⤓](https://github.com/arghya339/apk-me/releases?q=Discord&expanded=true)
+ADM|VIP|[</>](https://github.com/NKR00711/xVIPHook)|[⤓](https://github.com/arghya339/apk-me/releases?q=ADM&expanded=true)

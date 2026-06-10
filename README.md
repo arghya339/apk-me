@@ -227,6 +227,9 @@ Sudoku Puzzle.
 
 ## Personalisation
 
+- [Lawnchair](https://github.com/LawnchairLauncher/lawnchair): A free, open source home screen replacement based on Launcher3 from the Android open source project.
+- [Lawnicons](https://github.com/LawnchairLauncher/lawnicons): Monochrome outlined brand icons for Android launchers.
+- [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed/releases/latest): Adds Google Feed to Lawnchair.
 - [Noti Progress Bar](https://github.com/Burhanverse/Noti/releases/latest): Quick glance, clear progress.
 - [Voice Notify](https://github.com/pilot51/voicenotify): Android app that speaks notifications.
 
@@ -267,10 +270,12 @@ Documents.
 ## Sharing Files
 
 - [LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app): Free, open-source, cross-platform file sharing tool that allows you to share files to nearby devices.
+- [PlainApp](https://github.com/plainhub/plain-app): An open-source app that lets you securely manage your phone from a web browser.
 
 ## Social Networking
 
 - [Revenge Manager](https://github.com/revenge-mod/revenge-manager/releases/latest): An application that installs and updates Revenge, a modification for Discord.
+- [OffLine](https://play.google.com/store/apps/details?id=com.offlinew.android): Short video without internet, local social media.
 
 ## Streaming
 
@@ -305,6 +310,13 @@ Documents.
 - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate): A multilingual neural machine translation service developed by Google.
 - [XposedSmsCode](https://github.com/tianma8023/XposedSmsCode/releases/latest): An Xposed Module which can recognize, parse verification code and copy it to clipboard when a new message arrives.
 
+- [Activity Launcher](https://github.com/butzist/ActivityLauncher/releases/latest): Launches hidden activities and creates shortcuts for installed apps.
+
+Install Termux:Widget & run following command from Termux:
+```sh
+mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android.phone/com.android.phone.settings.RadioInfo &>/dev/null" > ~/.shortcuts/RadioInfo; mkdir -p ~/.termux/widget/dynamic_shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android.phone/com.android.phone.settings.RadioInfo &>/dev/null" > ~/.termux/widget/dynamic_shortcuts/RadioInfo && chmod +x ~/.termux/widget/dynamic_shortcuts/RadioInfo; am start -n com.termux.widget/com.termux.widget.TermuxCreateShortcutActivity &>/dev/null
+```
+
 ## Utilities
 
 - [EtchDroid](https://github.com/etchdroid/etchdroid): An application to write OS images to USB drives, on Android, no root required.
@@ -321,6 +333,7 @@ Documents.
 
 ## Wallpaper
 
+- [Bing Wallpapers](https://play.google.com/store/apps/details?id=com.microsoft.bing.wallpapers): Browse Bing images and set them as your mobile wallpaper.
 - [Starth Bing Wallpaper](https://github.com/liaoheng/BingWallpaper): Change your wallpaper with Bing image of the day.
 - [BingWallpaper](https://github.com/arghya339/BingWallpaper): Change wallpaper with Bing image of the day.
 

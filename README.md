@@ -123,9 +123,9 @@ Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrow
 
 - [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp): Instant messaging service provide by Meta.
 
-- [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer/releases/latest): WhatsApp tools for Android.
-
 - [Signal](https://github.com/signalapp/Signal-Android): A private messenger for Android.
+
+- [Launch Chat](https://github.com/vinaygopinath/launch-chat/releases/latest): Start a WhatsApp, Signal or Telegram chat without saving a number as a contact.
 
 - [Session](https://github.com/session-foundation/session-android): Open source cross platform Onion routing based messenger.
 
@@ -246,6 +246,7 @@ Sudoku Puzzle.
 - [Next Player](https://github.com/anilbeesetti/nextplayer): A simple material you video player based on Media3.
 - [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc): Free and open source cross-platform multimedia player.
 - [VRTV Lite](https://play.google.com/store/apps/details?id=se.chai.vrtv.free): Watch your favorite 2D and 3D videos in VR with VRTV VR Video Player and a Cardboard compatible headset!
+- [ScreenStream](https://github.com/dkrivoruchko/ScreenStream): A user-friendly Android application for streaming your device screen and audio.
 
 ## Productivity
 
@@ -288,7 +289,6 @@ Documents.
 
 ## Tools
 
-- [Amarok](https://github.com/deltazefiro/Amarok-Hider/releases/latest): Hide your private files and apps with a single click.
 - [Apktool M](https://maximoff.su/apktool): Edit any APK directly from your Android device.
 - [Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator): It's provides simple and advanced mathematical functions in a beautifully designed app.
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android): Stylish design, versatile features – the ultimate calculator for Android.
@@ -296,19 +296,31 @@ Documents.
 - [Buckwheat](https://play.google.com/store/apps/details?id=com.danilkinkin.buckwheat): An app that helps you spend money wisely.
 - [Xiaomi Compass v16.0.6.0](https://www.apkmirror.com/apk/xiaomi-inc/miui-compass/xiaomi-compass-16-0-6-0-release/xiaomi-compass-16-0-6-0-android-apk-download/): An app that can show your current geographical coordinates.
 - [Mi Remote](https://play.google.com/store/apps/details?id=com.duokan.phone.remotecontroller): Control your electric appliances with your phone.
-- [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup/releases/latest): Free and open-source data backup application.
 - [Amaze File Manager](https://github.com/teamamaze/amazefilemanager): Material design file manager for Android.
 - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver): A program for archive management.
 - [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar): An all-in-one, original, free, simple, easy and quick compression program, archiver, backup tool, extractor and even a basic file manager.
 - [Image Toolbox](https://github.com/T8RIN/ImageToolbox): A powerful app for advanced image manipulation.
 - [Keep Screen On](https://github.com/elastic-rock/KeepScreenOn): An Android screen timeout quick settings tile.
 - [Network Switch](https://github.com/aunchagaonkar/NetworkSwitch/releases/latest): Modern Android app for network mode switching.
+- [WiFiList](https://github.com/jaredcat/WiFiList/releases/latest): iew your saved WiFi passwords on Android 11 and later without root!
 - [Private DNS](https://github.com/karasevm/PrivateDNSAndroid/releases/latest): Quick settings tile to switch active private DNS server.
 - [NextDNS Manager](https://github.com/doubleangels/nextdnsmanager): Manage your NextDNS settings easily with this Android app!
+- [DataMonitor](https://github.com/itsdrnoob/DataMonitor): Data usage monitoring app for android.
+- [AppLock](https://github.com/aload0/AppLock/releases): Powerful Privacy tool to secure your sensitive apps.
+- [Amarok](https://github.com/deltazefiro/Amarok-Hider/releases/latest): Hide your private files and apps with a single click.
+- [Hail](https://github.com/aistra0528/Hail/releases/latest): Disable / Hide / Suspend / Uninstall Android apps without root.
+- [Island](https://github.com/oasisfeng/island): Clone and Isolate app
+- [Language Selector](https://github.com/VegaBobo/Language-Selector/releases/latest): Select individual app languages on Android 13+
+- [DarQ](https://github.com/KieronQuinn/DarQ/releases/latest): Provides a per-app selectable force dark option for Android 10 and above.
+- [Cache Cleaner](https://github.com/bmx666/android-appcachecleaner/releases/latest): Android Cache Cleaner
+- [Share to Clipboard](https://f-droid.org/packages/com.tengu.sharetoclipboard/): Copy to clipboard straight from the share menu.
 - [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner): A scanner app from Google Photos that lets you scan and save your favorite printed photos using your phone’s camera.
 - [SystemUI Tuner](https://github.com/zacharee/Tweaker): An app for viewing and modifying hidden settings on Android devices.
 - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate): A multilingual neural machine translation service developed by Google.
-- [XposedSmsCode](https://github.com/tianma8023/XposedSmsCode/releases/latest): An Xposed Module which can recognize, parse verification code and copy it to clipboard when a new message arrives.
+- [LSPatch](https://github.com/JingMatrix/LSPatch/releases/latest): A non-root Xposed framework extending from LSPosed.
+- [GmsCore](https://github.com/microg/GmsCore/releases/latest): Free implementation of Play Services
+- [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest): GmsCore fork for ReVanced/Morphe patched apps.
+- [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager/releases): Application for using ReVanced and Morphe all in a single app on Android.
 
 - [Activity Launcher](https://github.com/butzist/ActivityLauncher/releases/latest): Launches hidden activities and creates shortcuts for installed apps.
 
@@ -319,6 +331,7 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 
 ## Utilities
 
+- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader/releases/latest): Install GSIs via DSU's Android feature.
 - [EtchDroid](https://github.com/etchdroid/etchdroid): An application to write OS images to USB drives, on Android, no root required.
 - [Thanox](https://github.com/Tornaco/Thanox/releases/latest): An Android system management tool that provides convenient functions in terms of system privacy and optimization.
 
@@ -336,8 +349,29 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 - [Bing Wallpapers](https://play.google.com/store/apps/details?id=com.microsoft.bing.wallpapers): Browse Bing images and set them as your mobile wallpaper.
 - [Starth Bing Wallpaper](https://github.com/liaoheng/BingWallpaper): Change your wallpaper with Bing image of the day.
 - [BingWallpaper](https://github.com/arghya339/BingWallpaper): Change wallpaper with Bing image of the day.
+- [DarkModeLiveWallpaper](https://github.com/cvzi/darkmodewallpaper): A live wallpaper for Android that respects dark theme mode.
 
 ## Weather
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest): A feature-rich weather app with good visualizations and more than 50 sources.
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster/releases/latest): A Weather app for android inspired by the [Google Pixel weather](https://play.google.com/store/apps/details?id=com.google.android.wearable.weather) app.
+
+## Root
+
+- [Magisk](https://github.com/topjohnwu/Magisk/releases): A FOSS app used for userspace systemless rooting of Android 6+ devices.
+- [KernelSU](https://github.com/tiann/KernelSU/releases/latest): A Kernel based root solution for Android.
+- [APatch](https://github.com/bmax121/APatch/releases/latest): A new kernel-based root solution for Android devices.
+- [Vector](https://github.com/JingMatrix/Vector/releases/latest): Modern Xposed Framework.
+- [Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest): An Xposed module to intercept applist detections.
+- [CorePatch](https://github.com/LSPosed/CorePatch/releases/latest): Disable signature verification For Android.
+- [XposedSmsCode](https://github.com/tianma8023/XposedSmsCode/releases/latest): An Xposed Module which can recognize, parse verification code and copy it to clipboard when a new message arrives.
+- [Pixel Launcher Double Tap to Sleep](https://github.com/uragiristereo/Pixel_Launcher_Double_Tap_to_Sleep/releases/latest): An Xposed/LSPosed module to enable double tap to sleep functionality on Pixel Launcher.
+- [CallRecording](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/releases/latest): Disable call recording announcement for Google Dialer.
+- [Xposed-Disable-FLAG_SECURE](https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE/releases/latest): Xposed Module to Disable FLAG_SECURE (enabling screenshots, screen sharing and recording in apps that normally wouldn't allow it).
+- [Disable Target API Block](https://github.com/buttercookie42/DisableTargetAPIBlock/releases/latest): An Xposed module for disabling Android 14's installation block for old apps
+- [Pairipfix](https://github.com/ahmedmani/pairipfix/releases/latest): A simple LSPosed module to bypass signature checks for apks installed from outside google play.
+- [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest): LSPosed / EdXposed module to add Google Pixel features on Google Photos for any device.
+- [GMS-Flags](https://github.com/polodarb/GMS-Flags/releases/latest): A tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications.
+- [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup/releases/latest): Free and open-source data backup application.
+- [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer/releases/latest): WhatsApp tools for Android.
+- [NexAlloy](https://github.com/NexAlloy/NexAlloy/releases): LSPosed module, powered by Morphe, ReVanced.

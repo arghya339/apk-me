@@ -23,6 +23,7 @@ ProtonMail|Remove Free Accounts Limit|[</>](https://gitlab.com/ReVanced/revanced
 RAR|Hide purchase reminder|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/rar/misc/annoyances/purchasereminder)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/rar-revanced.apk)
 Strava|Unlock Subscription|[</>](https://gitlab.com/ReVanced/revanced-patches/-/blob/main/patches/src/main/kotlin/app/revanced/patches/strava/subscription/UnlockSubscriptionPatch.kt)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/strava-arm64-v8a-revanced.apk)
 Photomath|Unlock plus|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/photomath)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/photomath-revanced.apk)
+PicsArt| Unlock premium|[</>](https://github.com/rushiranpise/morphe-patches/tree/main/patches/src/main/kotlin/app/template/patches/picsart)|[⤓](https://github.com/arghya339/apk-me/releases?q=PicsArt&expanded=true)
 Lightroom|Unlock premium|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/lightroom/misc)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/lightroom-revanced.apk)
 Instagram|Hide timeline ads|[</>](https://github.com/crimera/piko/tree/main/patches/src/main/kotlin/app/crimera/patches/instagram)|[⤓](https://github.com/arghya339/apk-me/releases?q=Instagram&expanded=true)
 Facebook Messenger|Hide inbox ads|[</>](https://github.com/ReVanced/revanced-patches/tree/main/src/main/kotlin/app/revanced/patches/messenger)|[⤓](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/messenger-arm64-v8a-revanced.apk)
@@ -74,11 +75,11 @@ Thanox|VIP|[</>](https://github.com/NKR00711/xVIPHook)|[⤓](https://github.com/
 
 - [Chromium](https://github.com/chromium/chromium): [Latest Chromium download](https://github.com/arghya339/crdl)
 
-- [Helium](https://github.com/jqssun/android-helium-browser/releases/latest): Private and secure Android browser with support for browser extensions.
+- [Titanium](https://github.com/jqssun/android-titanium-browser): Private and secure Android browser with support for browser extensions.
 
 - [Cromite](https://github.com/uazo/cromite/releases): A [Bromite](https://github.com/bromite/bromite) fork with ad blocking and privacy enhancements; take back your browser!
 
-- [Ultimatum](https://github.com/gonzazoid/Ultimatum/releases): A Chromium fork with webextensions support on Android.
+- [Vivaldi Browser](https://play.google.com/store/apps/details?id=com.vivaldi.browser): A fast, private web browser that support extensions.
 
 - [Microslop Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx): Smarter way to browse, Chromium based, support crx extensions in Desktop, Android & iOS, better than [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome).
 
@@ -86,6 +87,8 @@ Thanox|VIP|[</>](https://github.com/NKR00711/xVIPHook)|[⤓](https://github.com/
 
 - [Samsung Internet
 Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser): The secure, private and optimized mobile web browser from Samsung. + [AdGuard](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker):  Block All Online Ads in Samsung Internet and Yandex Browser.
+
+- [Ultimatum](https://github.com/gonzazoid/Ultimatum/releases): A Chromium fork with webextensions support on Android.
 
 - [Kiwi Browser](https://github.com/kiwibrowser/src.next): A fast browser for Android with extensions support.
 
@@ -154,6 +157,7 @@ Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrow
 - [GitHub_v1.250.1](https://www.apkmirror.com/apk/github/github-2/github-1-250-1-release/github-1-250-1-android-apk-download/): GitHub Mobile w/o Microslop Slopilot on Navigation bar.
 - [OctoDroid](https://github.com/slapperwan/gh4a/releases/latest): Github client for Android.
 - [LabNex](https://github.com/labnex/LabNex/releases): LabNex is an open-source Android app designed for managing GitLab projects.
+- [GitNex](https://codeberg.org/gitnex/GitNex/releases/latest): Android Client for [Codeberg](https://codeberg.org/explore/repos?q=&only_show_relevant=true&sort=moststars).
 
 - [Shizuku](https://github.com/RikkaApps/Shizuku/releases/latest): Open-source app for serving multiple apps that require root/adb.
 
@@ -236,7 +240,8 @@ Sudoku Puzzle.
 ## Photo & Video
 
 - [PowerDirector](https://liteapks.com/powerdirector.html): Movie maker & video editing app with Al effects and green screen.
-- [Picsart](https://liteapks.com/picsart-studio.html): Enhance photos with Al, edit videos, use Background Remover & create collages.
+- [PicsArt](https://github.com/arghya339/apk-me/releases?q=PicsArt&expanded=true): Enhance photos with Al, edit videos, use Background Remover & create collages.
+- [Drawpile](https://github.com/drawpile/Drawpile/releases/latest): Drawing app.
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet): Instant video conferences with your teams of family, friends, and colleagues.
 - [Ente Photos](https://play.google.com/store/apps/details?id=io.ente.photos): Open source cross platform end-to-end encryption sync Photos app Alternative to Google Photos & Apple Photos.
 
@@ -277,6 +282,7 @@ Documents.
 
 - [Revenge Manager](https://github.com/revenge-mod/revenge-manager/releases/latest): An application that installs and updates Revenge, a modification for Discord.
 - [OffLine](https://play.google.com/store/apps/details?id=com.offlinew.android): Short video without internet, local social media.
+- [Bluesky](https://github.com/bluesky-social/social-app): Open Source [X](https://play.google.com/store/apps/details?id=com.twitter.android) alternative social app.
 
 ## Streaming
 
@@ -300,6 +306,9 @@ Documents.
 - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver): A program for archive management.
 - [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar): An all-in-one, original, free, simple, easy and quick compression program, archiver, backup tool, extractor and even a basic file manager.
 - [Image Toolbox](https://github.com/T8RIN/ImageToolbox): A powerful app for advanced image manipulation.
+- [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools): A privacy-first, offline PDF utility for Android.
+- [Stay Put](https://codeberg.org/y20k/stayput/releases/latest): Prevent theft of your device while charging in public spaces.
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder/releases/latest): Shizuku empowers phone calls recorder on non-rooted android 11+ device!
 - [Keep Screen On](https://github.com/elastic-rock/KeepScreenOn): An Android screen timeout quick settings tile.
 - [Network Switch](https://github.com/aunchagaonkar/NetworkSwitch/releases/latest): Modern Android app for network mode switching.
 - [WiFiList](https://github.com/jaredcat/WiFiList/releases/latest): iew your saved WiFi passwords on Android 11 and later without root!
@@ -318,6 +327,7 @@ Documents.
 - [SystemUI Tuner](https://github.com/zacharee/Tweaker): An app for viewing and modifying hidden settings on Android devices.
 - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate): A multilingual neural machine translation service developed by Google.
 - [LSPatch](https://github.com/JingMatrix/LSPatch/releases/latest): A non-root Xposed framework extending from LSPosed.
+- [NPatch](https://github.com/7723mod/NPatch/releases/latest): Neo LSPatch Framework.
 - [GmsCore](https://github.com/microg/GmsCore/releases/latest): Free implementation of Play Services
 - [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest): GmsCore fork for ReVanced/Morphe patched apps.
 - [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager/releases): Application for using ReVanced and Morphe all in a single app on Android.
@@ -360,6 +370,7 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 
 - [Magisk](https://github.com/topjohnwu/Magisk/releases): A FOSS app used for userspace systemless rooting of Android 6+ devices.
 - [KernelSU](https://github.com/tiann/KernelSU/releases/latest): A Kernel based root solution for Android.
+- [SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest): A kernel-based root solution for Android devices, forked from [KernelSU](https://github.com/tiann/KernelSU), and added some interesting changes.
 - [APatch](https://github.com/bmax121/APatch/releases/latest): A new kernel-based root solution for Android devices.
 - [Vector](https://github.com/JingMatrix/Vector/releases/latest): Modern Xposed Framework.
 - [Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest): An Xposed module to intercept applist detections.

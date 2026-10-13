@@ -63,7 +63,9 @@ Thanox|VIP|[</>](https://github.com/NKR00711/xVIPHook)|[⤓](https://github.com/
 
 ## Audio
 
-- [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP): An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices.
+- [AudioRecorder](https://github.com/Dimowner/AudioRecorder): Audio Recording Android application.
+
+- [LibrePods](https://github.com/librepods-org/librepods/releases/latest): It allows you to use AirPods features on non-Apple platforms.
 
 ## Browser
 
@@ -104,6 +106,8 @@ Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrow
 
 - [Proton Pass](https://github.com/protonpass/android-pass): FOSS Password Manager.
 
+- [WebToApp](https://github.com/shiaho777/web-to-app/releases/latest): Build Android APKs from web projects, directly on your phone.
+
 ## Cloud Drive
 
 - [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs): Google cloud storage.
@@ -113,6 +117,8 @@ Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrow
 - [Proton Drive](https://play.google.com/store/apps/details?id=me.proton.android.drive): Private and secure storage.
 
 - [Nextcloud](https://github.com/nextcloud/android): The Nextcloud Android app allows you to access all your files on your Nextcloud.
+
+- [Telegram Drive](https://github.com/caamer20/Telegram-Drive): Turn your Telegram account into an unlimited, secure cloud storage drive.
 
 ## Communication
 
@@ -133,6 +139,10 @@ Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrow
 - [Session](https://github.com/session-foundation/session-android): Open source cross platform Onion routing based messenger.
 
 - [Fossify Messages](https://github.com/FossifyOrg/Messages): An easy and quick way of managing SMS and MMS messages without ads.
+
+- [httpSMS](https://github.com/NdoleStudio/httpsms/releases/latest): A service that lets you use your Android phone as an SMS Gateway to send and receive SMS messages.
+
+- [Copy SMS Code](https://github.com/jd1378/otphelper): Copy OTP from SMS and notifications automatically.
 
 - [Thunderbird](https://github.com/thunderbird/thunderbird-android): Free and open-source email client.
 
@@ -191,6 +201,7 @@ Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrow
 
 - [Sudoku](https://play.google.com/store/apps/details?id=easy.sudoku.puzzle.solver.free): Classic
 Sudoku Puzzle.
+- [SudokuYou](https://github.com/Galaxy-rio/SudokuYou/releases/latest): A free and open-source Android Sudoku app.
 - [Ludo King](https://play.google.com/store/apps/details?id=com.ludo.king): A board game played between friends and family.
 - [Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2): Run, jump, and escape in the ultimate endless jungle adventure game!
 - [Racing in Car 2](https://play.google.com/store/apps/details?id=com.ffgames.racingincar2): 3D endless racing game from car interior view.
@@ -202,6 +213,8 @@ Sudoku Puzzle.
 - [Acode](https://github.com/Acode-Foundation/Acode/releases): Powerful text/code editor for android.
 - [Ubuntu-Sans-Mono-fonts](https://github.com/canonical/Ubuntu-Sans-Mono-fonts/releases/latest): [Ubuntu Font Family.](https://fonts.google.com/specimen/Ubuntu%2BSans%2BMono)
 
+- [VHEditor](https://github.com/vhqtvn/VHEditor-Android/releases/latest): Run VSCode on Android.
+
 ## Lifestyle
 
 - [Home Assistant](https://github.com/home-assistant/android/releases/latest): Control your home anywhere in the world.
@@ -211,6 +224,7 @@ Sudoku Puzzle.
 ## Music
 
 - [Metrolist](https://github.com/MetrolistGroup/Metrolist/releases/latest): YouTube Music client for Android.
+- [Spotilol](https://github.com/lyssadev/Spotilol/releases/latest): A android app that wraps Spotify's web player with built-in adblocker.
 - [PixelPlayer](https://github.com/theovilardo/PixelPlayer/releases/latest): Privacy-first Android music player built with Material 3 Expressive.
 - [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer): Material You Design Music player for Android.
 
@@ -218,6 +232,7 @@ Sudoku Puzzle.
 
 - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps): Real-time GPS navigation & local suggestions for food, events, & activities.
 - [OsmAnd](https://github.com/osmandapp/OsmAnd): Navigation on hikes is no longer a problem.
+- [AirGuard](https://github.com/seemoo-lab/AirGuard): Protect yourself from being tracked by AirTags.
 
 ## News
 
@@ -234,11 +249,13 @@ Sudoku Puzzle.
 - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair): A free, open source home screen replacement based on Launcher3 from the Android open source project.
 - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons): Monochrome outlined brand icons for Android launchers.
 - [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed/releases/latest): Adds Google Feed to Lawnchair.
+- [Smart Dock](https://github.com/axel358/smartdock/releases/latest): A user-friendly desktop mode launcher that offers a modern and customizable user interface.
 - [Noti Progress Bar](https://github.com/Burhanverse/Noti/releases/latest): Quick glance, clear progress.
 - [Voice Notify](https://github.com/pilot51/voicenotify): Android app that speaks notifications.
 
 ## Photo & Video
 
+- [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera/releases/latest): Camera app focused on privacy and security.
 - [PowerDirector](https://liteapks.com/powerdirector.html): Movie maker & video editing app with Al effects and green screen.
 - [PicsArt](https://github.com/arghya339/apk-me/releases?q=PicsArt&expanded=true): Enhance photos with Al, edit videos, use Background Remover & create collages.
 - [Drawpile](https://github.com/drawpile/Drawpile/releases/latest): Drawing app.
@@ -252,6 +269,7 @@ Sudoku Puzzle.
 - [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc): Free and open source cross-platform multimedia player.
 - [VRTV Lite](https://play.google.com/store/apps/details?id=se.chai.vrtv.free): Watch your favorite 2D and 3D videos in VR with VRTV VR Video Player and a Cardboard compatible headset!
 - [ScreenStream](https://github.com/dkrivoruchko/ScreenStream): A user-friendly Android application for streaming your device screen and audio.
+- [WiFiAudioStreaming](https://github.com/marcomorosi06/WiFiAudioStreaming-Android/releases/latest): A versatile Android application that allows you to stream audio over your local network.
 
 ## Productivity
 
@@ -270,7 +288,6 @@ Documents.
 - [VirusTotal Mobile](https://play.google.com/store/apps/details?id=com.funnycat.virustotal): A service that analyses suspicious files and URLS.
 - [Avast Antivirus](https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity): Mobile Scam protection with Call blocker, Email and SMS guard Virus cleaner.
 - [Cryptomator](https://github.com/cryptomator/android/releases/latest): Multi-platform transparent client-side encryption of your files in the cloud.
-- [NetWall](https://play.google.com/store/apps/details?id=com.ysy.app.firewall): Block app internet access without VPN/ROOT.
 - [EnteAuth](https://play.google.com/store/apps/details?id=io.ente.auth): Open Source Authenticator with cross platform end-to-end encryption data sync.
 
 ## Sharing Files
@@ -292,10 +309,12 @@ Documents.
 ## System
 
 - [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck): Device & System Info.
+- [CPU Info](https://github.com/kamgurgul/cpu-info): A multiplatform application which provides information about device hardware and software.
 
 ## Tools
 
 - [Apktool M](https://maximoff.su/apktool): Edit any APK directly from your Android device.
+- [Clock](https://github.com/BlackyHawky/Clock/releases/latest): A customizable, privacy‑first, open-source clock app inspired by AOSP Clock.
 - [Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator): It's provides simple and advanced mathematical functions in a beautifully designed app.
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android): Stylish design, versatile features – the ultimate calculator for Android.
 - [Converter NOW](https://github.com/ferraridamiano/converternow): The Unit Converter app.
@@ -305,27 +324,22 @@ Documents.
 - [Amaze File Manager](https://github.com/teamamaze/amazefilemanager): Material design file manager for Android.
 - [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver): A program for archive management.
 - [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar): An all-in-one, original, free, simple, easy and quick compression program, archiver, backup tool, extractor and even a basic file manager.
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract/releases/latest): A fully open-source Android application designed for comprehensive archive management.
 - [Image Toolbox](https://github.com/T8RIN/ImageToolbox): A powerful app for advanced image manipulation.
 - [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools): A privacy-first, offline PDF utility for Android.
 - [Stay Put](https://codeberg.org/y20k/stayput/releases/latest): Prevent theft of your device while charging in public spaces.
-- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder/releases/latest): Shizuku empowers phone calls recorder on non-rooted android 11+ device!
 - [Keep Screen On](https://github.com/elastic-rock/KeepScreenOn): An Android screen timeout quick settings tile.
-- [Network Switch](https://github.com/aunchagaonkar/NetworkSwitch/releases/latest): Modern Android app for network mode switching.
-- [WiFiList](https://github.com/jaredcat/WiFiList/releases/latest): iew your saved WiFi passwords on Android 11 and later without root!
-- [Private DNS](https://github.com/karasevm/PrivateDNSAndroid/releases/latest): Quick settings tile to switch active private DNS server.
 - [NextDNS Manager](https://github.com/doubleangels/nextdnsmanager): Manage your NextDNS settings easily with this Android app!
 - [DataMonitor](https://github.com/itsdrnoob/DataMonitor): Data usage monitoring app for android.
+- [TapLock](https://github.com/modelorona/TapLock): A minimalist Android widget that lets you lock your screen with a tap.
 - [AppLock](https://github.com/aload0/AppLock/releases): Powerful Privacy tool to secure your sensitive apps.
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider/releases/latest): Hide your private files and apps with a single click.
-- [Hail](https://github.com/aistra0528/Hail/releases/latest): Disable / Hide / Suspend / Uninstall Android apps without root.
-- [Island](https://github.com/oasisfeng/island): Clone and Isolate app
-- [Language Selector](https://github.com/VegaBobo/Language-Selector/releases/latest): Select individual app languages on Android 13+
-- [DarQ](https://github.com/KieronQuinn/DarQ/releases/latest): Provides a per-app selectable force dark option for Android 10 and above.
 - [Cache Cleaner](https://github.com/bmx666/android-appcachecleaner/releases/latest): Android Cache Cleaner
+- [Cedinia](https://github.com/qarmin/czkawka/releases/latest): Multi functional app to find duplicates, empty folders, similar images etc.
 - [Share to Clipboard](https://f-droid.org/packages/com.tengu.sharetoclipboard/): Copy to clipboard straight from the share menu.
 - [PhotoScan](https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner): A scanner app from Google Photos that lets you scan and save your favorite printed photos using your phone’s camera.
-- [SystemUI Tuner](https://github.com/zacharee/Tweaker): An app for viewing and modifying hidden settings on Android devices.
 - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate): A multilingual neural machine translation service developed by Google.
+- [Translator](https://github.com/DavidVentura/offline-translator/releases/latest): Use Firefox Translation Models for on-device translation on Android.
 - [LSPatch](https://github.com/JingMatrix/LSPatch/releases/latest): A non-root Xposed framework extending from LSPosed.
 - [NPatch](https://github.com/7723mod/NPatch/releases/latest): Neo LSPatch Framework.
 - [GmsCore](https://github.com/microg/GmsCore/releases/latest): Free implementation of Play Services
@@ -341,7 +355,6 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 
 ## Utilities
 
-- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader/releases/latest): Install GSIs via DSU's Android feature.
 - [EtchDroid](https://github.com/etchdroid/etchdroid): An application to write OS images to USB drives, on Android, no root required.
 - [Thanox](https://github.com/Tornaco/Thanox/releases/latest): An Android system management tool that provides convenient functions in terms of system privacy and optimization.
 
@@ -349,6 +362,7 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 
 - [Rethink](https://github.com/celzero/rethink-app): DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Cloudflare WARP](https://1.1.1.1/): Makes your Internet more private.
+- [Oblivion](https://github.com/bepass-org/oblivion/releases/latest): Unofficial warp client for android.
 - [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android): A fast, modern, and secure VPN tunnel. + [WireGuard Config by ProtonVPN](https://account.protonvpn.com/downloads#wireguard-configuration): The best VPN for speed and security.
 - [OpenVPN](https://play.google.com/store/apps/details?id=net.openvpn.openvpn): The official [OpenVPN](https://github.com/OpenVPN/openvpn) client app. + [OpenVPN Config by ProtonVPN](https://account.protonvpn.com/downloads#openvpn-configuration-files)
 - [AdGuard VPN](https://play.google.com/store/apps/details?id=com.adguard.vpn): Hides your real IP address and location, encrypts your traffic, and makes you anonymous.
@@ -366,12 +380,32 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather/releases/latest): A feature-rich weather app with good visualizations and more than 50 sources.
 - [WeatherMaster](https://github.com/PranshulGG/WeatherMaster/releases/latest): A Weather app for android inspired by the [Google Pixel weather](https://play.google.com/store/apps/details?id=com.google.android.wearable.weather) app.
 
+## Shizuku
+
+- [RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP): An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices.
+- [Screen Translator](https://github.com/ciddwd/overlay-translator/releases/latest): Open-source no-root Android real-time screen translator.
+- [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall/releases/latest): Lightweight, no vpn firewall solution for Android 11+
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder/releases/latest): Shizuku empowers phone calls recorder on non-rooted android 11+ device!
+- [RivoPhoneApp](https://github.com/user-grinch/RivoPhoneApp): A clean, open-source dialer and contacts app for Android.
+- [ZukuLock](https://github.com/tiendnm/zukulock/releases/latest): A lightweight Android application that allows you to quickly toggle the screen on or off with a single tap. The app utilizes **Shizuku** to execute the `input keyevent 26` command, mimicking the physical power button. This is particularly useful for reducing wear and tear on your power button or adding convenience to screen control.
+- [Network Switch](https://github.com/aunchagaonkar/NetworkSwitch/releases/latest): Modern Android app for network mode switching.
+- [WiFiList](https://github.com/jaredcat/WiFiList/releases/latest): iew your saved WiFi passwords on Android 11 and later without root!
+- [Private DNS](https://github.com/karasevm/PrivateDNSAndroid/releases/latest): Quick settings tile to switch active private DNS server.
+- [Hail](https://github.com/aistra0528/Hail/releases/latest): Disable / Hide / Suspend / Uninstall Android apps without root.
+- [Island](https://github.com/oasisfeng/island): Clone and Isolate app
+- [Language Selector](https://github.com/VegaBobo/Language-Selector/releases/latest): Select individual app languages on Android 13+
+- [DarQ](https://github.com/KieronQuinn/DarQ/releases/latest): Provides a per-app selectable force dark option for Android 10 and above.
+- [SystemUI Tuner](https://github.com/zacharee/Tweaker): An app for viewing and modifying hidden settings on Android devices.
+- [DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader/releases/latest): Install GSIs via DSU's Android feature.
+
 ## Root
 
 - [Magisk](https://github.com/topjohnwu/Magisk/releases): A FOSS app used for userspace systemless rooting of Android 6+ devices.
 - [KernelSU](https://github.com/tiann/KernelSU/releases/latest): A Kernel based root solution for Android.
 - [SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest): A kernel-based root solution for Android devices, forked from [KernelSU](https://github.com/tiann/KernelSU), and added some interesting changes.
 - [APatch](https://github.com/bmax121/APatch/releases/latest): A new kernel-based root solution for Android devices.
+- [MMRL](https://github.com/MMRLApp/MMRL/releases/latest): An app for managing and exploring Magisk modules across repositories. + [Magisk-Modules-Alt-Repo/json-v2](https://github.com/Magisk-Modules-Alt-Repo/json-v2): Stored Magisk Modules for MMRL.
+- [AndroidacyModuleManager](https://github.com/Androidacy/MagiskModuleManager): Discover and manage magisk modules effortlessly.
 - [Vector](https://github.com/JingMatrix/Vector/releases/latest): Modern Xposed Framework.
 - [Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest): An Xposed module to intercept applist detections.
 - [CorePatch](https://github.com/LSPosed/CorePatch/releases/latest): Disable signature verification For Android.
@@ -380,6 +414,7 @@ mkdir -p ~/.shortcuts && echo -e "#\!/usr/bin/bash\nbash am start -n com.android
 - [CallRecording](https://github.com/Xposed-Modules-Repo/io.github.vvb2060.callrecording/releases/latest): Disable call recording announcement for Google Dialer.
 - [Xposed-Disable-FLAG_SECURE](https://github.com/VarunS2002/Xposed-Disable-FLAG_SECURE/releases/latest): Xposed Module to Disable FLAG_SECURE (enabling screenshots, screen sharing and recording in apps that normally wouldn't allow it).
 - [Disable Target API Block](https://github.com/buttercookie42/DisableTargetAPIBlock/releases/latest): An Xposed module for disabling Android 14's installation block for old apps
+- [VPNHotspot](https://github.com/Mygod/VPNHotspot/releases/latest): Share your VPN connection over hotspot.
 - [Pairipfix](https://github.com/ahmedmani/pairipfix/releases/latest): A simple LSPosed module to bypass signature checks for apks installed from outside google play.
 - [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos/releases/latest): LSPosed / EdXposed module to add Google Pixel features on Google Photos for any device.
 - [GMS-Flags](https://github.com/polodarb/GMS-Flags/releases/latest): A tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications.
